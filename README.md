@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adarsh-parthipan/)" target="_blank">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:padarsh2006@gmail.com">
@@ -53,35 +53,6 @@
 </div>
 
 <br>
-
----
-
-### ✦ GitHub Highlights
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/AdarshParthipan">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdarshParthipan&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- GitHub Contribution Streak -->
-  <a href="https://github.com/AdarshParthipan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshParthipan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/AdarshParthipan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshParthipan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />

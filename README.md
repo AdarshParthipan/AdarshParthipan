@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning and exploring **Advanced Web Development, AI, and modern tech stacks**
 - 🤝 I’m looking to collaborate on **Open Source projects & innovative ideas**
 - 💬 Ask me about **Tech, Coding, and Innovation**
-- 📫 How to reach me: **[Your Email / LinkedIn]**
+- 📫 How to reach me: **padarsh2006@gmail.com**
 - ⚡ Fun fact: **I love animating things and turning coffee into code! ☕**
 
 ---

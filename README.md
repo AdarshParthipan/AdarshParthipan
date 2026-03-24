@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adarsh-parthipan/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:padarsh2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
@@ -56,29 +56,31 @@
 
 ---
 
-### ✦ GitHub Analytics
+### ✦ GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshParthipan&theme=tokyonight" width="100%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshParthipan&show_icons=true&theme=tokyonight&hide_border=true&ring_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshParthipan&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/AdarshParthipan">
+    <img src="https://github-profile-trophy.vercel.app/?username=AdarshParthipan&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
 
----
+<div align="center">
+  <!-- GitHub Contribution Streak -->
+  <a href="https://github.com/AdarshParthipan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshParthipan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
 
-### ✦ Code Contributions
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshParthipan/AdarshParthipan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshParthipan/AdarshParthipan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdarshParthipan/AdarshParthipan/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/AdarshParthipan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshParthipan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
 </div>
 
 <div align="center">
